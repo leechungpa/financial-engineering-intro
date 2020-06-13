@@ -1,2 +1,2 @@
-# Financial_Engineering_intro
+# FinancialEngineering_intro
 Introduction to Financial Engineering using Python
